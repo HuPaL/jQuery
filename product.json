@@ -1,0 +1,61 @@
+[{
+ "id":1,
+ "title":"Nike zoom Aterro",
+ "description":"Basketball shoes",
+ "manufacturer":"Adidas",
+ "male":"men",
+ "price":140,
+ "sizes":[36,37,38,39.40],
+ "colors":["black","white","blue"],
+ "image":"img/shoes1.png"
+},{
+ "id":2,
+ "title":"Nike zoom Aterro",
+ "description":"Basketball shoes",
+ "manufacturer":"Nike",
+ "male":"men",
+ "price":110,
+ "sizes":[36,37,38,39.40],
+ "colors":["black","white","blue"],
+ "image":"img/shoes2.png"
+},{
+ "id":3,
+ "title":"Nike zoom Aterro",
+ "description":"Basketball shoes",
+ "manufacturer":"Nike",
+ "male":"men",
+ "price":160,
+ "sizes":[36,37,38,39.40],
+ "colors":["black","white","blue"],
+ "image":"img/shoes3.png"
+},{
+ "id":4,
+ "title":"Nike zoom Aterro",
+ "description":"Basketball shoes",
+ "manufacturer":"Nike",
+ "male":"men",
+ "price":140,
+ "sizes":[36,37,38,39.40],
+ "colors":["black","white","blue"],
+ "image":"img/shoes4.png"
+},{
+ "id":5,
+ "title":"Nike zoom Aterro",
+ "description":"Basketball shoes",
+ "manufacturer":"Nike",
+ "male":"men",
+ "price":160,
+ "sizes":[36,37,38,39.40],
+ "colors":["black","white","blue"],
+ "image":"img/shoes5.png"
+},{
+ "id":6,
+ "title":"Nike zoom Aterro",
+ "description":"Basketball shoes",
+ "manufacturer":"Nike",
+ "male":"men",
+ "price":190,
+ "sizes":[36,37,38,39.40],
+ "colors":["black","white","blue"],
+ "image":"img/shoes6.png"
+}]
